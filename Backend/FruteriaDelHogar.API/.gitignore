@@ -1,0 +1,8 @@
+# Base de datos local
+Fruteria.db
+Fruteria-log.db
+
+# Compilados de .NET
+bin/
+obj/
+appsettings.Development.json
